@@ -21,23 +21,15 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports SD
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD 2
-http://45.127.244.7:8080/hls/channel3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD 3
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD 4
-http://45.127.244.7:8080/hls/channel1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV SD
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV SD 2
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 2
-http://45.127.244.7:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 3
 http://103.127.93.82:8883/play/gazitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 3
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=165524&extension=ts&play_token=t9JDjigzOf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Qatar TV
-https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Astro 4K
 http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Astro HD
@@ -45,13 +37,11 @@ http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/inde
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", TSN Live
 http://89.187.175.143:80/3038/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Mat4! 
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Sports TV1
 http://comag.rip:8000/50738601689735/03751643107136/66469
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Fox Sports 1 HD
 http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", beIN Sports 1 Premium
-http://13.229.80.186:5000/play/Bein_Sport-Premium1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", beIN Sports 3 Max
 http://175.107.244.52:4457/play/a06z/index.m3u8 
 
