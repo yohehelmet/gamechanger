@@ -28,6 +28,8 @@ http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV SD
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV SD 2
+http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 2
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 3
@@ -42,6 +44,10 @@ http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/inde
 http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", TSN Live
 http://89.187.175.143:80/3038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Mat4! 
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Sports TV1
+http://comag.rip:8000/50738601689735/03751643107136/66469
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Fox Sports 1 HD
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", beIN Sports 1 Premium
