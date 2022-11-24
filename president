@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Batabi Lebu 🇧🇩 (S)
-http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olovd19.jpg" group-title="FIFA World Cup Qatar 2022™", Sports 18 HD (S)
 https://stream.sunplex.live/SPORTS-18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHkwr3.jpg" group-title="FIFA World Cup Qatar 2022™", Yes TV HD (S)
@@ -14,6 +12,8 @@ http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
 https://stream.sunplex.live/GAZI-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD2 🇧🇩 (S)
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Batabi Lebu 🇧🇩 (S)
+http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9aCCxvm.png" group-title="FIFA World Cup Qatar 2022™", Toffee Premium 🇧🇩
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vgNK6m.png" group-title="FIFA World Cup Qatar 2022™", Toffee Free 🇧🇩
