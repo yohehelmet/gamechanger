@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/olovd19.jpg" group-title="FIFA World Cup Qatar 2022™", Sports 18 HD (S)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olovd19.jpg" group-title="FIFA World Cup Qatar 2022™", Sports 18 HD 🇮🇳 (S)
 https://stream.sunplex.live/SPORTS-18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHkwr3.jpg" group-title="FIFA World Cup Qatar 2022™", Yes TV HD (S)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHkwr3.jpg" group-title="FIFA World Cup Qatar 2022™", Yes TV HD 🇨🇦 (S)
 https://stream.sunplex.live/YES-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD 🇧🇩 (S)
 https://stream.sunplex.live/T-SPORTS/index.m3u8
@@ -22,19 +22,26 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD3 🇧🇩
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD4 🇧🇩
+http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 🇧🇩
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD2 🇧🇩
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD3 🇧🇩
 http://103.153.154.34/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD4 🇧🇩
+http://dotfli.net/s-2-gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", MTV HD 🇮🇳
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", A Sports HD 🇵🇰
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", A Sports HD2 🇵🇰
 http://tv2.efiberbd.net:8080/mkaua/stream/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Tyc Sports 🇷🇺
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", beIN Sports Extra 🇫🇷
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
 
@@ -107,6 +114,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 http://103.118.76.146:1935/MDE0GIDU6R/gtv.stream/chunklist_w704316170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsRUh3R.png" group-title="Bangladeshi", Global TV HD [J]
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ibm95hb.png" group-title="Bangladeshi", Green TV HD
+http://cdn01.palki.tv/live/GreenTV-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV [J]
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV [J]
@@ -482,52 +491,6 @@ http://172.32.1.88:1935/tvprogram/WOW-CINEMA/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/Housefull-Movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Manoranjan Movies
 http://172.32.1.88:1935/tvprogram/Manoranjan-Movies/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",Atn Bangla 
-http://103.118.76.146:1935/evolution/ATN-BANGLA.stream/chunklist_w1786990682.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",MAASRANGA TV 
-http://103.118.76.146:1935/evolution/MAASRANGA.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",EKATTOR TV 
-http://103.118.76.146:1935/plex/ekattortv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",CHANNEL I 
-http://103.118.76.146:1935/evolution/CHANNEL-I.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",DEPTO BANGLA 
-http://103.118.76.146:1935/evolution/Deepto.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",GAZI TV 
-http://103.118.76.146:1935/MDE0GIDU6R/gtv.stream/chunklist_w704316170.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",T SPORTS 
-http://103.118.76.146:1935/plex/tsports.stream/chunklist_w1278672545.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",CHANNEL 9 
-http://103.118.76.146:1935/evolution/CHANNEL-9.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",SATV 
-http://103.118.76.146:1935/evolution/SATV%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",NTV 
-http://103.118.76.146:1935/evolution/NTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",RTV 
-http://103.118.76.146:1935/evolution/RTV-BANGLA.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",JAMUNA TV 
-http://103.118.76.146:1935/evolution/JAMUNA-TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",CHANNEL 24 
-http://103.118.76.146:1935/evolution/Channel-24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",BANGLA VISION 
-http://103.118.76.146:1935/evolution/BANGLA-VISION.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",MY TV 
-http://103.118.76.146:1935/evolution/MY-TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",GAAN BANGLA 
-http://103.118.76.146:1935/evolution/gaanbangla.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",Masti 
-http://103.118.76.146:1935/evolution/masti.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",SONY AATH 
-http://103.118.76.146:1935/evolution/SonyAath.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",ZEE BANGLA 
-http://103.118.76.146:1935/plex/zee-bangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",STAR JALSHA 
-http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfCvcem.png" group-title="Vision Technologies",SONY HD 
-http://103.118.76.146:1935/evolution/Sonyhd.stream/playlist.m3u8
 
 
 
