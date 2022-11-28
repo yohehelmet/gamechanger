@@ -16,8 +16,8 @@ http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4WFsVL.png" group-title="FIFA World Cup Qatar 2022™", Toffee Free 🇧🇩
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports SD 🇧🇩
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD 🇧🇩
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD2 🇧🇩
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD3 🇧🇩
@@ -42,6 +42,11 @@ http://tv2.efiberbd.net:8080/mkaua/stream/1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", beIN Sports Extra 🇫🇷
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", Fox Sports 1 🇺🇸
+https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", RTK 1 🇽🇰
+http://146.59.19.1/5002/mpegts?
+
 
 
 
