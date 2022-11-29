@@ -17,21 +17,13 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4WFsVL.png" group-title="FIFA World Cup Qatar 2022™", Toffee Free 🇧🇩
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD 🇧🇩
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD2 🇧🇩
 http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD3 🇧🇩
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD2 🇧🇩
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhv72GF.jpg" group-title="FIFA World Cup Qatar 2022™", T Sports HD4 🇧🇩
-http://dotfli.live/s-1-tsports/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD 🇧🇩
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD2 🇧🇩
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD3 🇧🇩
-http://103.153.154.34/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", Gazi TV HD4 🇧🇩
-http://dotfli.net/s-2-gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTFMhAW.jpg" group-title="FIFA World Cup Qatar 2022™", MTV HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAOdetJ.png" group-title="FIFA World Cup Qatar 2022™", A Sports HD 🇵🇰
@@ -92,7 +84,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgiwunK.png" group-title="Bangladeshi", DBC News HD [J]
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD [J]
-http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/playlist.m3u8
+https://deepto.jaagobd.com:444/deepto/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OYXg7WR.png" group-title="Bangladeshi", Desh TV [J]
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangladeshi", Duronto TV [J]
